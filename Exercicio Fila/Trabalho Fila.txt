@@ -1,0 +1,11 @@
+Trabalho Fila
+
+Existem partes de sistemas operacionais que cuidam da ordem em que os programas devem ser executados. Por exemplo, em um sistema de computação de tempo-compartilhado (do inglês time-shared) existe a necessidade de manter um conjunto de processos em uma fila, esperando para serem executados.
+
+Escreva um programa em C que seja capaz de ler uma série de solicitações para:
+
+(i) incluir novos processos na fila de processos;
+(ii) retirar da fila o processo com o maior tempo de espera; e
+(iii) imprimir o conteúdo da lista de processo em um determinado momento.
+Assume que cada processo é representado por um registro composto por um número
+identificador do processo. Utilize o tipo abstrato de dados Fila apresentado em aula.
