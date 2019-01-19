@@ -1,3 +1,0 @@
-Trabalho Pilha
-
-1) Faça um programa que entre com uma expressão infixada e devolva a expressão posfixada (notação polonesa reversa). Descrever passo a passo da transformação (utilizar o programa EposFixa como exemplo). 
