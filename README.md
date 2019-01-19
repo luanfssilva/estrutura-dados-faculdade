@@ -1,8 +1,7 @@
 # Estrutura Dados
-Repositório com alguns exercícios sobre Estrutura de Dados em C que fiz durante a graduação de Bacharelado em Ciência da Computação. 
+Repositório com alguns trabalhos sobre Estrutura de Dados em C que fiz durante a graduação de Bacharel em Ciência da Computação. 
 
-Este repositorio não está finalizado estou organizando para adicionar mais codigos fontes de meus trabalho de faculdade.
+Este repositorio não contém todos os tipos de estrutura de dados, apenas alguns trabalhos que podem ser usados como material de estudo e prática.
 
-Alguns programas podem apresentar bugs, pois fiz no início da graduação. Mas vou corrigindo conforme ir identificando. 
 
 **Atenção:** QUALQUER tipo de correção é bem vinda, sinta-se à vontade para me enviar pull request.  
